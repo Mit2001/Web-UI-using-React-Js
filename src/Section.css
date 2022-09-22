@@ -1,0 +1,40 @@
+h2{
+    font-weight: bolder;
+}
+.card{
+    border-radius: 20px;
+    width: 350px;
+    margin-left: 30px;
+    height: 450px;
+    
+}
+.center{
+    text-align: center;
+   
+}
+.bt2{
+    padding: 12px;
+    margin-top: 0px;
+    width: 250px;
+    border-radius: 50px;
+    font-weight: bolder;
+    border: 3px solid;
+}
+.bt3{
+    padding: 12px;
+    margin-top: 0px;
+    width: 250px;
+    border-radius: 50px;
+    font-weight: bolder;
+    border: 3px solid rgb(0,102,255);
+    background-color: rgb(0,102,255);
+    color: white;
+}
+
+.color{
+    background-color: rgb(0,34,74);
+    color: white;
+}
+.white{
+    color: white;
+}

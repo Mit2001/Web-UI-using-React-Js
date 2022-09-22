@@ -1,0 +1,36 @@
+.black{
+    color: white;
+    background-color: black;
+    font-family: Inter, sans-serif;
+    border-bottom: 2px solid white;
+}
+.desgy{
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.footer{
+    padding-top: 30px;
+    list-style: none;
+}
+.footer1{
+    padding-top: 30px;
+   font-weight: bolder;
+   list-style: none;
+}
+.footer2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    list-style: none;
+}
+.footer2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    list-style: none;
+}
+#p{
+    padding-left: 150px;
+}
+.float{
+    text-align: end;
+    margin-top: 0px;
+}

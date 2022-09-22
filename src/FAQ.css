@@ -1,0 +1,21 @@
+.pp{
+    text-align: center;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 19px;
+    border-radius: 10px;
+
+}
+.blue{
+    background-color: rgba(53, 8, 255, 0.7);
+    border-radius: 10px;
+    width: 800px;
+
+}
+.hh{
+    color: white;
+}
+.width{
+    width: 750px;
+    padding-right: 10px;
+}
